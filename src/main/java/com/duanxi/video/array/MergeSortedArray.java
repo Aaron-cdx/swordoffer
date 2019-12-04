@@ -5,7 +5,7 @@ import java.util.Arrays;
 /**
  * @author caoduanxi
  * @2019/12/4 19:11
- * leetcode 80 合并两个有序数组
+ * leetcode 88 合并两个有序数组
  * <p>
  * 给定两个有序整数数组 nums1 和 nums2，将 nums2 合并到 nums1 中，使得 num1 成为一个有序数组。
  * <p>
