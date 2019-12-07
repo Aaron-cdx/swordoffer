@@ -41,8 +41,9 @@ public class ValidPalindrome {
         }
         return true;
     }
+
     public static boolean isPalindrome2(String s) {
-        for (int i = 0, j = s.length() - 1; i < j;) {
+        for (int i = 0, j = s.length() - 1; i < j; ) {
             char ic = s.charAt(i);
             char jc = s.charAt(j);
             if (s.charAt(i) >= 'A' && s.charAt(i) <= 'Z') {
@@ -65,8 +66,21 @@ public class ValidPalindrome {
         }
         return true;
     }
+    // 不考虑.,，所以是true
+    public static boolean isPalindrome3(String s) {
+        if (s == null) return true;
+        s = s.toLowerCase();
+        int l = s.length();
+        StringBuilder str = new StringBuilder(l);
+        for (char c : s.toCharArray()) {
+            if ((c >= '0' && c <= '9') || (c >= 'a' && c <= 'z')) {
+                str.append(c);
+            }
+        }
+        return str.toString().equals(str.reverse().toString());
+    }
 
     public static void main(String[] args) {
-        System.out.println(isPalindrome2(".,"));
+        System.out.println(isPalindrome3(".,"));
     }
 }
