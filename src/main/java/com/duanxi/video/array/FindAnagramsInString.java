@@ -39,7 +39,7 @@ public class FindAnagramsInString {
      * 注意，这里使用的Integer是一个对象，大于127以后不从常量池拿，在127之前都是从常量池直接获取
      * 当128及以后都是直接new一个对象出来，此时比较需要使用equals，因为是对象的比较
      */
-    private static List<Integer> findAnagrams(String s, String p) {
+    private static List<Integer> findAnagrams1(String s, String p) {
         List<Integer> list = new ArrayList<>();
         Map<Character, Integer> map = new HashMap<>();
         Map<Character, Integer> window = new HashMap<>();
@@ -87,8 +87,54 @@ public class FindAnagramsInString {
         return list;
     }
 
+    // 利用数组来优化这道题
+    private static List<Integer> findAnagrams(String s, String p) {
+        List<Integer> list = new ArrayList<>();
+        int[] memo = new int[26];
+        int[] window = new int[26];
+        for (int i = 0; i < p.length(); i++) {
+            memo[p.charAt(i) - 'a']++;
+        }
+        // 防止出现aa这种重复的，只计算匹配1次即可
+        int len = 0;// 有效的长度
+        for (int i : memo) {
+            if (i != 0) {
+                len++;
+            }
+        }
+        // 设置左右边界
+        int l = 0;
+        int r = 0;
+        int match = 0;
+        while (r < s.length()) {
+            char c = s.charAt(r);
+            if (memo[c - 'a'] != 0) {
+                window[c - 'a']++;
+                if (window[c - 'a'] == memo[c - 'a']) {
+                    match++;
+                }
+            }
+            r++;
+            // 怎么判断数组的有效长度，遍历一次memo数组即可
+            while (match == len) {
+                if ((r - l) == p.length()) {
+                    list.add(l);
+                }
+                char c1 = s.charAt(l);
+                if (memo[c1 - 'a'] != 0) {
+                    if (window[c1 - 'a'] == memo[c1 - 'a']) {
+                        match--;
+                    }
+                    window[c1 - 'a']--;
+                }
+                l++;
+            }
+        }
+        return list;
+    }
+
     public static void main(String[] args) {
-//        System.out.println(findAnagrams("cbaebabacd", "abc"));
+        System.out.println(findAnagrams("cbaebabacd", "abc"));
         System.out.println(findAnagrams("baa", "aa"));
     }
 }
