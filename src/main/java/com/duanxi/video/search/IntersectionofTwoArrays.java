@@ -1,4 +1,4 @@
-package com.duanxi.video.array;
+package com.duanxi.video.search;
 
 import java.util.Arrays;
 import java.util.HashSet;
