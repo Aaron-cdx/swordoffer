@@ -11,6 +11,7 @@ package com.duanxi.sortingAlgorithm;
  * <p>
  * 时间复杂度：O(n^2)
  * 空间复杂度：O(1)
+ * 稳定性：稳定
  */
 public class BubbleSort {
     public static void bubbleSort(int[] nums) {
