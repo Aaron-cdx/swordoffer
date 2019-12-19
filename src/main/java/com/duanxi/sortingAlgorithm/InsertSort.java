@@ -17,11 +17,6 @@ public class InsertSort {
             for (int j = i; j > 0 && nums[j] < nums[j - 1]; j--) {
                 swap(nums, j, j - 1);
             }
-            /*System.out.print("[ ");
-            for (int num : nums) {
-                System.out.print(num + " ");
-            }
-            System.out.println("]");*/
         }
     }
 
