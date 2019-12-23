@@ -4,6 +4,13 @@ package com.duanxi.books.charpeterTwo;
  * @author caoduanxi
  * @Date 2019/12/22 22:29
  * 剑指offer 面试题12 矩阵中的路径
+ *
+ * 题目：请设计一个函数，用来判断在一个矩阵中是否存在一条包含某字符串所有字符的路径。路径可以从矩阵中的任意一格开始
+ * 每一步可以在矩阵中上、下、左、右移动一格，如果一条路径经过了矩阵中的某格，则该路径不能再次进入该格子。
+ * 例如：
+ * a b t g
+ * c f c s
+ * j d e h     b f c e是存在的！
  */
 public class Tweleve_HasPath {
     /**
