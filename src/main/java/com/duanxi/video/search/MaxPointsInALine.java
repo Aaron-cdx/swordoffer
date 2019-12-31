@@ -104,16 +104,18 @@ public class MaxPointsInALine {
                     // 此时就不用计算斜率
                     continue;
                 }
-                // 否则求最大公约数
+                // 否则求最大公约数，主要是判断在一条直线上的斜率是否相同
                 int g = gcd(dy, dx);
                 if (g != 0) {
                     dy /= g;
                     dx /= g;
                 }
+                // 通过string来组合，因为dy/dx,dx很有可能为0，如果采用int，实现不了
                 String tempString = dy + "/" + dx;
                 map.put(tempString, map.getOrDefault(tempString, 0) + 1);
                 tmpMax = Math.max(tmpMax, map.get(tempString));
             }
+            // 需要加上重复的数，也就是在同一点的数
             res = Math.max(res, tmpMax + repeat + 1);
         }
         return res;
