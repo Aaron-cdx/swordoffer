@@ -47,31 +47,41 @@ public class UglyNumber {
      * @return
      */
     public static boolean isUglyNumber(int number) {
-        if (number % 2 == 0) {
-            if (number / 2 == 1) {
-                return true;
-            } else {
-                // 这个能确保/出来的是一个整数
-                return isUglyNumber(number / 2);
-            }
+//        if (number % 2 == 0) {
+//            if (number / 2 == 1) {
+//                return true;
+//            } else {
+//                // 这个能确保/出来的是一个整数
+//                return isUglyNumber(number / 2);
+//            }
+//        }
+//        if (number % 5 == 0) {
+//            if (number / 5 == 1) {
+//                return true;
+//            } else {
+//                // 这个能确保/出来的是一个整数
+//                return isUglyNumber(number / 5);
+//            }
+//        }
+//        if (number % 3 == 0) {
+//            if (number / 3 == 1) {
+//                return true;
+//            } else {
+//                // 这个能确保/出来的是一个整数
+//                return isUglyNumber(number / 3);
+//            }
+//        }
+//        return false;
+        while (number % 5 == 0) {
+            number /= 5;
         }
-        if (number % 5 == 0) {
-            if (number / 5 == 1) {
-                return true;
-            } else {
-                // 这个能确保/出来的是一个整数
-                return isUglyNumber(number / 5);
-            }
+        while (number % 3 == 0) {
+            number /= 3;
         }
-        if (number % 3 == 0) {
-            if (number / 3 == 1) {
-                return true;
-            } else {
-                // 这个能确保/出来的是一个整数
-                return isUglyNumber(number / 3);
-            }
+        while (number % 2 == 0) {
+            number /= 2;
         }
-        return false;
+        return number == 1;
     }
 
     public static void main(String[] args) {
