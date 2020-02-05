@@ -26,6 +26,7 @@ public class FindNumsAppearOnce {
         for (int i = 0; i < n; i++) {
             result ^= array[i];
         }
+        // 为什么要找第一位，是因为最后异或的结果一定出现一个与1异或为这个值的！
         int index = findFirstBitOfOne(result);
         for (int i = 0; i < n; i++) {
             // 这个地方总能够命中一次！
