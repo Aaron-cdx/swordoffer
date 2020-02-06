@@ -26,7 +26,7 @@ public class LastRemainingNumber {
         int[] arr = new int[n];
         int count = n; // 孩子总数
         int i = -1; // 记录一直走的下标位置
-        int step = 0; // 记录孩子们的报数
+        int step = -1; // 记录孩子们的报数
         // 前提是孩子们需要存在
         while (count > 0) {
             // 首先是第一个孩子
@@ -37,10 +37,10 @@ public class LastRemainingNumber {
             if (arr[i] == -1) continue;
             step++;
             // 报数到达了m的话，也就是真实报数到达m-1
-            if (step == m) {
+            if (step == m - 1) {
                 // 需要将这个孩子置为-1，同时从新开始计数，且剔除一名孩子
                 arr[i] = -1;
-                step = 0;
+                step = -1;
                 count--;
             }
         }
