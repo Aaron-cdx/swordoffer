@@ -13,7 +13,10 @@ import java.util.Queue;
  * 从上到下按层打印二叉树，同一层结点从左至右输出。每一层输出一行
  */
 public class PrintTreeNode {
-    public ArrayList<ArrayList<Integer>> Print(TreeNode pRoot) {
+    /**
+     * 第一种方法：使用队列来处理
+     */
+    public ArrayList<ArrayList<Integer>> Print1(TreeNode pRoot) {
         ArrayList<ArrayList<Integer>> res = new ArrayList<>();
         if (pRoot == null) return res;
         Queue<TreeNode> queue = new LinkedList<>();
@@ -31,5 +34,29 @@ public class PrintTreeNode {
             res.add(list);
         }
         return res;
+    }
+
+    /**
+     * 使用递归的解法
+     */
+    private ArrayList<ArrayList<Integer>> res = new ArrayList<>();
+
+    ArrayList<ArrayList<Integer>> Print(TreeNode pRoot) {
+        if (pRoot == null) return res;
+        helper(pRoot, 1);
+        return res;
+    }
+
+    private void helper(TreeNode pRoot, int degree) {
+        if (pRoot == null) return;
+        // 这里应该要分条件创建ArrayList否则取值会出现问题
+        if (res.size() < degree) {
+            // 如果层数大于list中数量，添加新的存储list
+            res.add(new ArrayList<>());
+        }
+        res.get(degree - 1).add(pRoot.val);
+        // 必须先加否则还是原数据进入
+        helper(pRoot.left, degree + 1);
+        helper(pRoot.right, degree + 1);
     }
 }
