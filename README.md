@@ -1,8 +1,11 @@
-# 剑指offer==>为了秋招
+# 剑指offer
+本文档作为个人春招&秋招复习知识点记录
+包括所有的面试知识都会一一归到这里
+<font color="red" size=16>Fighting for big factory offer!</font>
 `swordoffer and watch video from baidu pan! Fihting for best offer!`
 
 
-## 1. 剑指offer题目
+## 1. 剑指offer
 1. [二维数组中的查找](https://github.com/Aaron-cdx/swordoffer/blob/master/src/main/java/com/duanxi/newcode/Find.java "二维数组中的查找")
 2. [替换空格](https://github.com/Aaron-cdx/swordoffer/blob/master/src/main/java/com/duanxi/newcode/ReplaceSpace.java "替换空格")
 3. [从尾到头打印链表]( "从尾到头打印链表")
