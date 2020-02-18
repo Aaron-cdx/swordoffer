@@ -75,6 +75,7 @@
 67. [剪绳子](https://github.com/Aaron-cdx/swordoffer/blob/master/src/main/java/com/duanxi/newcode/LineCutRope.java "剪绳子")
 
 
-
+## 2. 相关企业面试算法题
+1.[字节跳动](https://github.com/Aaron-cdx/swordoffer/blob/master/src/main/java/com/duanxi/byteDance/%E5%AD%97%E8%8A%82%E8%B7%B3%E5%8A%A8%E9%9D%A2%E8%AF%95%E7%AE%97%E6%B3%95%E9%A2%98.md "字节跳动")
 
 
