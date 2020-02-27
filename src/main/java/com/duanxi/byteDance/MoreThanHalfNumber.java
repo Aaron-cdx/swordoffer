@@ -8,6 +8,10 @@ package com.duanxi.byteDance;
  * 找出数组中出现次数超过一般的数字，不存在输出0
  */
 public class MoreThanHalfNumber {
+    /**
+     * 思路就是超过一般的数一定会在最后出来，只要跟与自己不一样的抵消即可
+     * 超过一般的数最后一定会数量大于一半。所以只需要前后抵消，计算最后的num次数即可
+     */
     public int findNumber(int[] nums) {
         if (nums == null) return 0;
         int n = nums.length;
