@@ -1,0 +1,1584 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="88506a8f-da32-4a35-a014-3c97f45bde21" name="Default Changelist" comment="字节跳动：将数组中的数字排成最小的数">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/duanxi/byteDance/FindNumsAppearOnce.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageViewManager">
+    <option name="myElementSize" value="241" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="swordoffer" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/duanxi/byteDance/字节跳动面试算法题.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="390">
+                <caret line="27" column="10" selection-start-line="27" selection-start-column="10" selection-end-line="27" selection-end-column="10" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/duanxi/byteDance/FindNumsAppearOnce.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="330">
+              <caret line="15" column="5" lean-forward="true" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
+              <folding>
+                <element signature="e#738#739#0" expanded="true" />
+                <element signature="e#786#787#0" expanded="true" />
+                <element signature="e#766#767#0" expanded="true" />
+                <element signature="e#802#803#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/duanxi/sortingAlgorithm/QuickSort.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="836">
+              <caret line="40" selection-start-line="40" selection-end-line="40" />
+              <folding>
+                <element signature="e#327#328#0" expanded="true" />
+                <element signature="e#374#375#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/duanxi/byteDance/QuickSort.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="286">
+              <caret line="9" column="11" selection-start-line="9" selection-start-column="3" selection-end-line="9" selection-end-column="11" />
+              <caret line="10" column="30" selection-start-line="10" selection-start-column="3" selection-end-line="10" selection-end-column="30" />
+              <caret line="11" column="38" selection-start-line="11" selection-start-column="3" selection-end-line="11" selection-end-column="38" />
+              <caret line="12" column="37" selection-start-line="12" selection-start-column="3" selection-end-line="12" selection-end-column="37" />
+              <caret line="13" column="38" selection-start-line="13" selection-start-column="3" selection-end-line="13" selection-end-column="38" />
+              <folding>
+                <element signature="e#402#403#0" expanded="true" />
+                <element signature="e#449#450#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://C:/Program Files/Java/jdk1.8.0_131/src.zip!/java/util/Random.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="7612">
+              <caret line="385" column="15" selection-start-line="385" selection-start-column="15" selection-end-line="385" selection-end-column="15" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/duanxi/byteDance/MoreThanHalfNumber.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="198">
+              <caret line="9" column="33" selection-start-line="9" selection-start-column="33" selection-end-line="9" selection-end-column="33" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://C:/Program Files/Java/jdk1.8.0_131/src.zip!/java/lang/String.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="24090">
+              <caret line="1152" column="15" selection-start-line="1152" selection-start-column="15" selection-end-line="1152" selection-end-column="15" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://C:/Program Files/Java/jdk1.8.0_131/src.zip!/java/util/Collections.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2992">
+              <caret line="174" column="16" selection-start-line="174" selection-start-column="16" selection-end-line="174" selection-end-column="16" />
+              <folding>
+                <element signature="e#7284#7285#0" expanded="true" />
+                <element signature="e#7312#7313#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://C:/Program Files/Java/jdk1.8.0_131/src.zip!/java/util/List.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="9944">
+              <caret line="475" column="17" selection-start-line="475" selection-start-column="17" selection-end-line="475" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://C:/Program Files/Java/jdk1.8.0_131/src.zip!/java/lang/Object.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="286">
+              <caret line="36" column="13" selection-start-line="36" selection-start-column="13" selection-end-line="36" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>remove</find>
+      <find>read</find>
+      <find>writeObje</find>
+      <find>transfer</find>
+      <find>size</find>
+      <find>size()</find>
+      <find>segmentShift</find>
+      <find>sizec</find>
+      <find>initTable</find>
+      <find>put</find>
+      <find>iterator</find>
+      <find>get()</find>
+      <find>get</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/java/com/duanxi/newcode/FindNumsAppearOnce.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/duanxi/newcode/FindContinuousSequence.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/duanxi/newcode/FindNumbersWithSum.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/duanxi/newcode/LeftRotateString.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/duanxi/newcode/ReverseSentence.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/duanxi/newcode/IsContinuous.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/duanxi/newcode/LastRemainingNumber.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/duanxi/newcode/SumFromOneToN.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/duanxi/newcode/AddTwoNumbers.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/duanxi/newcode/StrToInt.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/duanxi/newcode/DuplicateNumberInArray.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/duanxi/newcode/BuildMultiplyArray.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/duanxi/newcode/RegexMatch.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/duanxi/newcode/IsNumeric.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/duanxi/newcode/NoRepeatInStringStream.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/duanxi/newcode/EntryNodeOfLoop.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/duanxi/newcode/DeleteDuplication.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/duanxi/newcode/GetNext.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/duanxi/newcode/IsSymmetrical.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/duanxi/newcode/PrintZigzagTree.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/duanxi/newcode/PrintTreeNode.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/duanxi/newcode/SerAndDeserTree.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/duanxi/newcode/KthNode.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/duanxi/newcode/GetMedianOfStream.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/duanxi/newcode/MaxInWindows.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/duanxi/newcode/HasPath.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/duanxi/newcode/RobotMovingCount.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/duanxi/newcode/LineCutRope.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/duanxi/newcode/Find.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/duanxi/newcode/ReplaceSpace.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/duanxi/newcode/NumberOf1Between1AndN_Solution.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/duanxi/newcode/Permutation.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/duanxi/interview/TestLock.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/duanxi/byteDance/BaseAdditionOfThritySix.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/duanxi/byteDance/RecentPublicAncestor.java" />
+        <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/src/main/java/com/duanxi/byteDance/ReverseURL.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/duanxi/byteDance/IntersectionOfTwoLinkedList.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/duanxi/byteDance/IntersectionOfTwoListNode.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/duanxi/byteDance/FoldTheListNode.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/duanxi/byteDance/ReverseListNodeOfKGroup.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/duanxi/byteDance/ParityAscendingLinkedList.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/duanxi/byteDance/NextGreaterElement.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/duanxi/byteDance/ArrangeArrayGetMinNumber.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/duanxi/byteDance/RotateArrayWithTarget.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/duanxi/byteDance/MoreThanHalfNumber.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/duanxi/sortingAlgorithm/QuickSort.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/duanxi/byteDance/QuickSort.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/duanxi/byteDance/TwoStackImplQueue.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/duanxi/byteDance/字节跳动面试算法题.md" />
+        <option value="$PROJECT_DIR$/src/main/java/com/duanxi/byteDance/FindNumsAppearOnce.java" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="G:/java/Maven/apache-maven-3.6.0-bin/apache-maven-3.6.0" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="32" />
+    <option name="y" value="36" />
+    <option name="width" value="1026" />
+    <option name="height" value="546" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="swordoffer" type="b2602c69:ProjectViewProjectNode" />
+              <item name="swordoffer" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="swordoffer" type="b2602c69:ProjectViewProjectNode" />
+              <item name="swordoffer" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="swordoffer" type="b2602c69:ProjectViewProjectNode" />
+              <item name="swordoffer" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="swordoffer" type="b2602c69:ProjectViewProjectNode" />
+              <item name="swordoffer" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="swordoffer" type="b2602c69:ProjectViewProjectNode" />
+              <item name="swordoffer" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="swordoffer" type="b2602c69:ProjectViewProjectNode" />
+              <item name="swordoffer" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="duanxi" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="swordoffer" type="b2602c69:ProjectViewProjectNode" />
+              <item name="swordoffer" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="duanxi" type="462c0819:PsiDirectoryNode" />
+              <item name="byteDance" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="swordoffer" type="b2602c69:ProjectViewProjectNode" />
+              <item name="swordoffer" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="swordoffer" type="b2602c69:ProjectViewProjectNode" />
+              <item name="swordoffer" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Diagrams" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.FindNumsAppearOnce">
+    <configuration name="FindNumsAppearOnce" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.duanxi.byteDance.FindNumsAppearOnce" />
+      <module name="swordoffer" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.duanxi.byteDance.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MoreThanHalfNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.duanxi.byteDance.MoreThanHalfNumber" />
+      <module name="swordoffer" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.duanxi.byteDance.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="QuickSort (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.duanxi.byteDance.QuickSort" />
+      <module name="swordoffer" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.duanxi.byteDance.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="QuickSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.duanxi.sortingAlgorithm.QuickSort" />
+      <module name="swordoffer" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.duanxi.sortingAlgorithm.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TwoStackImplQueue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.duanxi.byteDance.TwoStackImplQueue" />
+      <module name="swordoffer" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.duanxi.byteDance.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.FindNumsAppearOnce" />
+        <item itemvalue="Application.TwoStackImplQueue" />
+        <item itemvalue="Application.QuickSort (1)" />
+        <item itemvalue="Application.QuickSort" />
+        <item itemvalue="Application.MoreThanHalfNumber" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="88506a8f-da32-4a35-a014-3c97f45bde21" name="Default Changelist" comment="" />
+      <created>1575286458961</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1575286458961</updated>
+      <workItem from="1575286462455" duration="9932000" />
+      <workItem from="1575334731678" duration="1237000" />
+      <workItem from="1575372689610" duration="8467000" />
+      <workItem from="1575421861044" duration="1495000" />
+      <workItem from="1575457826710" duration="6334000" />
+      <workItem from="1575525816664" duration="48000" />
+      <workItem from="1575544666471" duration="7450000" />
+      <workItem from="1575615016574" duration="1215000" />
+      <workItem from="1575715173353" duration="10678000" />
+      <workItem from="1575787406664" duration="32000" />
+      <workItem from="1575803010251" duration="10643000" />
+      <workItem from="1575871517147" duration="154000" />
+      <workItem from="1575886284374" duration="10507000" />
+      <workItem from="1575938226825" duration="2944000" />
+      <workItem from="1575980844625" duration="6688000" />
+      <workItem from="1576025698463" duration="2486000" />
+      <workItem from="1576073548169" duration="137000" />
+      <workItem from="1576129576482" duration="113000" />
+      <workItem from="1576148262272" duration="7695000" />
+      <workItem from="1576199002737" duration="107000" />
+      <workItem from="1576232511497" duration="5166000" />
+      <workItem from="1576243864970" duration="2307000" />
+      <workItem from="1576285963113" duration="34000" />
+      <workItem from="1576328813505" duration="3408000" />
+      <workItem from="1576460718838" duration="2454000" />
+      <workItem from="1576497140975" duration="6776000" />
+      <workItem from="1576563095243" duration="122000" />
+      <workItem from="1576585382138" duration="5529000" />
+      <workItem from="1576668178984" duration="9180000" />
+      <workItem from="1576719456186" duration="82000" />
+      <workItem from="1576735862609" duration="20651000" />
+      <workItem from="1576851103372" duration="1892000" />
+      <workItem from="1576889615806" duration="590000" />
+      <workItem from="1577024897628" duration="803000" />
+      <workItem from="1577062813168" duration="1308000" />
+      <workItem from="1577193949125" duration="2166000" />
+      <workItem from="1577409672334" duration="1549000" />
+      <workItem from="1577453797610" duration="3710000" />
+      <workItem from="1577494796936" duration="1343000" />
+      <workItem from="1577627538296" duration="2542000" />
+      <workItem from="1577667961168" duration="605000" />
+      <workItem from="1577712592552" duration="4266000" />
+      <workItem from="1577754489028" duration="16823000" />
+      <workItem from="1577882456084" duration="5237000" />
+      <workItem from="1577929954033" duration="4438000" />
+      <workItem from="1578137104416" duration="1892000" />
+      <workItem from="1578314367639" duration="6699000" />
+      <workItem from="1578362246064" duration="5176000" />
+      <workItem from="1578452118931" duration="20593000" />
+      <workItem from="1578531195054" duration="19872000" />
+      <workItem from="1578651754484" duration="7674000" />
+      <workItem from="1578790926423" duration="5503000" />
+      <workItem from="1578876467672" duration="7006000" />
+      <workItem from="1579051406295" duration="585000" />
+      <workItem from="1579180578592" duration="3270000" />
+      <workItem from="1579222884861" duration="2835000" />
+      <workItem from="1579760767556" duration="886000" />
+      <workItem from="1580018644021" duration="2957000" />
+      <workItem from="1580610690493" duration="7527000" />
+      <workItem from="1580697028991" duration="5173000" />
+      <workItem from="1580815623667" duration="3255000" />
+      <workItem from="1580868285815" duration="7232000" />
+      <workItem from="1580953390822" duration="21724000" />
+      <workItem from="1581040914548" duration="20931000" />
+      <workItem from="1581126743062" duration="13877000" />
+      <workItem from="1581212448646" duration="32505000" />
+      <workItem from="1581297910846" duration="15510000" />
+      <workItem from="1581328139937" duration="4856000" />
+      <workItem from="1581387095873" duration="29423000" />
+      <workItem from="1581480160463" duration="5646000" />
+      <workItem from="1581556319428" duration="601000" />
+      <workItem from="1582021584727" duration="11720000" />
+      <workItem from="1582075882732" duration="16481000" />
+      <workItem from="1582556728796" duration="320000" />
+      <workItem from="1582720119701" duration="4384000" />
+      <workItem from="1582763821994" duration="2508000" />
+      <workItem from="1582784533111" duration="352000" />
+      <workItem from="1582807394717" duration="6583000" />
+      <workItem from="1582852190500" duration="4023000" />
+      <workItem from="1583020538055" duration="3988000" />
+      <workItem from="1583066001136" duration="35000" />
+      <workItem from="1583290952917" duration="704000" />
+      <workItem from="1583292038537" duration="114000" />
+      <workItem from="1583328591330" duration="2100000" />
+    </task>
+    <task id="LOCAL-00110" summary="牛客网：数组中重复的数字">
+      <created>1581056439341</created>
+      <option name="number" value="00110" />
+      <option name="presentableId" value="LOCAL-00110" />
+      <option name="project" value="LOCAL" />
+      <updated>1581056439341</updated>
+    </task>
+    <task id="LOCAL-00111" summary="牛客网：构建乘积数组   方法精辟建议学习">
+      <created>1581058936648</created>
+      <option name="number" value="00111" />
+      <option name="presentableId" value="LOCAL-00111" />
+      <option name="project" value="LOCAL" />
+      <updated>1581058936648</updated>
+    </task>
+    <task id="LOCAL-00112" summary="牛客网：正则表达式匹配 参考网上的匹配法则">
+      <created>1581063685128</created>
+      <option name="number" value="00112" />
+      <option name="presentableId" value="LOCAL-00112" />
+      <option name="project" value="LOCAL" />
+      <updated>1581063685128</updated>
+    </task>
+    <task id="LOCAL-00113" summary="牛客网：表示数值的字符串 需要判断三种情况/使用正则表达式(不推荐使用)">
+      <created>1581130478089</created>
+      <option name="number" value="00113" />
+      <option name="presentableId" value="LOCAL-00113" />
+      <option name="project" value="LOCAL" />
+      <updated>1581130478090</updated>
+    </task>
+    <task id="LOCAL-00114" summary="牛客网：字符流中第一个不重复的字符  LinkedList/Map/数组+字符拼接">
+      <created>1581132952954</created>
+      <option name="number" value="00114" />
+      <option name="presentableId" value="LOCAL-00114" />
+      <option name="project" value="LOCAL" />
+      <updated>1581132952954</updated>
+    </task>
+    <task id="LOCAL-00115" summary="牛客网：链表中环的入口节点  快慢指针的原理">
+      <created>1581134593888</created>
+      <option name="number" value="00115" />
+      <option name="presentableId" value="LOCAL-00115" />
+      <option name="project" value="LOCAL" />
+      <updated>1581134593888</updated>
+    </task>
+    <task id="LOCAL-00116" summary="牛客网：删除链表中重复的节点">
+      <created>1581140623697</created>
+      <option name="number" value="00116" />
+      <option name="presentableId" value="LOCAL-00116" />
+      <option name="project" value="LOCAL" />
+      <updated>1581140623697</updated>
+    </task>
+    <task id="LOCAL-00117" summary="牛客网：二叉树的下一个节点,主要是对其中节点的下一个节点分析清楚">
+      <created>1581216760089</created>
+      <option name="number" value="00117" />
+      <option name="presentableId" value="LOCAL-00117" />
+      <option name="project" value="LOCAL" />
+      <updated>1581216760090</updated>
+    </task>
+    <task id="LOCAL-00118" summary="牛客网：对称的二叉树, 判断两棵树是否全等即可">
+      <created>1581217854171</created>
+      <option name="number" value="00118" />
+      <option name="presentableId" value="LOCAL-00118" />
+      <option name="project" value="LOCAL" />
+      <updated>1581217854171</updated>
+    </task>
+    <task id="LOCAL-00119" summary="牛客网：把二叉树打印成多行 利用队列直接存储，直接吐出即可">
+      <created>1581226174999</created>
+      <option name="number" value="00119" />
+      <option name="presentableId" value="LOCAL-00119" />
+      <option name="project" value="LOCAL" />
+      <updated>1581226174999</updated>
+    </task>
+    <task id="LOCAL-00120" summary="牛客网：按照之字形顺序打印二叉树">
+      <created>1581228306232</created>
+      <option name="number" value="00120" />
+      <option name="presentableId" value="LOCAL-00120" />
+      <option name="project" value="LOCAL" />
+      <updated>1581228306232</updated>
+    </task>
+    <task id="LOCAL-00121" summary="添加递归解法">
+      <created>1581229170196</created>
+      <option name="number" value="00121" />
+      <option name="presentableId" value="LOCAL-00121" />
+      <option name="project" value="LOCAL" />
+      <updated>1581229170197</updated>
+    </task>
+    <task id="LOCAL-00122" summary="牛客网：序列化二叉树">
+      <created>1581232595230</created>
+      <option name="number" value="00122" />
+      <option name="presentableId" value="LOCAL-00122" />
+      <option name="project" value="LOCAL" />
+      <updated>1581232595230</updated>
+    </task>
+    <task id="LOCAL-00123" summary="牛客网：二叉搜索树的第k个结点  中序遍历或者使用栈">
+      <created>1581236843377</created>
+      <option name="number" value="00123" />
+      <option name="presentableId" value="LOCAL-00123" />
+      <option name="project" value="LOCAL" />
+      <updated>1581236843378</updated>
+    </task>
+    <task id="LOCAL-00124" summary="牛客网：数据流中的中位数  优先队列维护大小顶堆">
+      <created>1581241711053</created>
+      <option name="number" value="00124" />
+      <option name="presentableId" value="LOCAL-00124" />
+      <option name="project" value="LOCAL" />
+      <updated>1581241711053</updated>
+    </task>
+    <task id="LOCAL-00125" summary="牛客网：滑动窗口的最大值 使用双端队列特性！">
+      <created>1581302036559</created>
+      <option name="number" value="00125" />
+      <option name="presentableId" value="LOCAL-00125" />
+      <option name="project" value="LOCAL" />
+      <updated>1581302036560</updated>
+    </task>
+    <task id="LOCAL-00126" summary="牛客网：矩阵中的路径  回溯法、一维数组二维取值">
+      <created>1581308090137</created>
+      <option name="number" value="00126" />
+      <option name="presentableId" value="LOCAL-00126" />
+      <option name="project" value="LOCAL" />
+      <updated>1581308090137</updated>
+    </task>
+    <task id="LOCAL-00127" summary="牛客网：机器人的运动范围，与矩阵中的路径不同，那个需要寻找特定元素的位置在哪，这个直接说了从(0,0)开始">
+      <created>1581310784580</created>
+      <option name="number" value="00127" />
+      <option name="presentableId" value="LOCAL-00127" />
+      <option name="project" value="LOCAL" />
+      <updated>1581310784580</updated>
+    </task>
+    <task id="LOCAL-00128" summary="牛客网：剪绳子  利用动态规划结合贪心算法最好">
+      <created>1581314915544</created>
+      <option name="number" value="00128" />
+      <option name="presentableId" value="LOCAL-00128" />
+      <option name="project" value="LOCAL" />
+      <updated>1581314915544</updated>
+    </task>
+    <task id="LOCAL-00129" summary="牛客网：二维数组中的查找">
+      <created>1581329399557</created>
+      <option name="number" value="00129" />
+      <option name="presentableId" value="LOCAL-00129" />
+      <option name="project" value="LOCAL" />
+      <updated>1581329399557</updated>
+    </task>
+    <task id="LOCAL-00130" summary="牛客网：替换空格">
+      <created>1581329581394</created>
+      <option name="number" value="00130" />
+      <option name="presentableId" value="LOCAL-00130" />
+      <option name="project" value="LOCAL" />
+      <updated>1581329581394</updated>
+    </task>
+    <task id="LOCAL-00131" summary="添加部分链接 完善">
+      <created>1581330352302</created>
+      <option name="number" value="00131" />
+      <option name="presentableId" value="LOCAL-00131" />
+      <option name="project" value="LOCAL" />
+      <updated>1581330352302</updated>
+    </task>
+    <task id="LOCAL-00132" summary="牛客网：整数中1的出现次数（从1~n的整数中1的出现次数）">
+      <created>1581334407171</created>
+      <option name="number" value="00132" />
+      <option name="presentableId" value="LOCAL-00132" />
+      <option name="project" value="LOCAL" />
+      <updated>1581334407171</updated>
+    </task>
+    <task id="LOCAL-00133" summary="牛客网：字符串的排列">
+      <created>1581334470479</created>
+      <option name="number" value="00133" />
+      <option name="presentableId" value="LOCAL-00133" />
+      <option name="project" value="LOCAL" />
+      <updated>1581334470479</updated>
+    </task>
+    <task id="LOCAL-00134" summary="添加相关链接">
+      <created>1581334999641</created>
+      <option name="number" value="00134" />
+      <option name="presentableId" value="LOCAL-00134" />
+      <option name="project" value="LOCAL" />
+      <updated>1581334999641</updated>
+    </task>
+    <task id="LOCAL-00135" summary="++">
+      <created>1581344354221</created>
+      <option name="number" value="00135" />
+      <option name="presentableId" value="LOCAL-00135" />
+      <option name="project" value="LOCAL" />
+      <updated>1581344354221</updated>
+    </task>
+    <task id="LOCAL-00136" summary="字节跳动:36进制的加法(要求不能转化为十进制)">
+      <created>1582030564706</created>
+      <option name="number" value="00136" />
+      <option name="presentableId" value="LOCAL-00136" />
+      <option name="project" value="LOCAL" />
+      <updated>1582030564707</updated>
+    </task>
+    <task id="LOCAL-00137" summary="字节跳动：二叉搜索树（二叉树）的公共祖先（如果不用递归怎么实现）">
+      <created>1582036026672</created>
+      <option name="number" value="00137" />
+      <option name="presentableId" value="LOCAL-00137" />
+      <option name="project" value="LOCAL" />
+      <updated>1582036026673</updated>
+    </task>
+    <task id="LOCAL-00138" summary="添加字节面试md文档">
+      <created>1582036394876</created>
+      <option name="number" value="00138" />
+      <option name="presentableId" value="LOCAL-00138" />
+      <option name="project" value="LOCAL" />
+      <updated>1582036394877</updated>
+    </task>
+    <task id="LOCAL-00139" summary="添加企业面试算法题模块">
+      <created>1582036549634</created>
+      <option name="number" value="00139" />
+      <option name="presentableId" value="LOCAL-00139" />
+      <option name="project" value="LOCAL" />
+      <updated>1582036549634</updated>
+    </task>
+    <task id="LOCAL-00140" summary="换行">
+      <created>1582036597109</created>
+      <option name="number" value="00140" />
+      <option name="presentableId" value="LOCAL-00140" />
+      <option name="project" value="LOCAL" />
+      <updated>1582036597109</updated>
+    </task>
+    <task id="LOCAL-00141" summary="字节跳动面试：翻转URL">
+      <created>1582077708347</created>
+      <option name="number" value="00141" />
+      <option name="presentableId" value="LOCAL-00141" />
+      <option name="project" value="LOCAL" />
+      <updated>1582077708348</updated>
+    </task>
+    <task id="LOCAL-00142" summary="字节跳动：获取两个链表的交点">
+      <created>1582078493281</created>
+      <option name="number" value="00142" />
+      <option name="presentableId" value="LOCAL-00142" />
+      <option name="project" value="LOCAL" />
+      <updated>1582078493281</updated>
+    </task>
+    <task id="LOCAL-00143" summary="字节跳动：链表对折">
+      <created>1582080946030</created>
+      <option name="number" value="00143" />
+      <option name="presentableId" value="LOCAL-00143" />
+      <option name="project" value="LOCAL" />
+      <updated>1582080946030</updated>
+    </task>
+    <task id="LOCAL-00144" summary="添加常见题">
+      <created>1582081214820</created>
+      <option name="number" value="00144" />
+      <option name="presentableId" value="LOCAL-00144" />
+      <option name="project" value="LOCAL" />
+      <updated>1582081214820</updated>
+    </task>
+    <task id="LOCAL-00145" summary="字节跳动：K个一组翻转链表">
+      <created>1582093510301</created>
+      <option name="number" value="00145" />
+      <option name="presentableId" value="LOCAL-00145" />
+      <option name="project" value="LOCAL" />
+      <updated>1582093510301</updated>
+    </task>
+    <task id="LOCAL-00146" summary="字节面试：奇偶升序链表">
+      <created>1582098131351</created>
+      <option name="number" value="00146" />
+      <option name="presentableId" value="LOCAL-00146" />
+      <option name="project" value="LOCAL" />
+      <updated>1582098131351</updated>
+    </task>
+    <task id="LOCAL-00147" summary="链表题完结">
+      <created>1582098552409</created>
+      <option name="number" value="00147" />
+      <option name="presentableId" value="LOCAL-00147" />
+      <option name="project" value="LOCAL" />
+      <updated>1582098552409</updated>
+    </task>
+    <task id="LOCAL-00148" summary="字节面试题：数组中下一个更大的数">
+      <created>1582765657541</created>
+      <option name="number" value="00148" />
+      <option name="presentableId" value="LOCAL-00148" />
+      <option name="project" value="LOCAL" />
+      <updated>1582765657542</updated>
+    </task>
+    <task id="LOCAL-00149" summary="添加数组中下一个大的数">
+      <created>1582765829163</created>
+      <option name="number" value="00149" />
+      <option name="presentableId" value="LOCAL-00149" />
+      <option name="project" value="LOCAL" />
+      <updated>1582765829163</updated>
+    </task>
+    <task id="LOCAL-00150" summary="字节跳动：将数组中的数字排成最小的数">
+      <created>1582808818420</created>
+      <option name="number" value="00150" />
+      <option name="presentableId" value="LOCAL-00150" />
+      <option name="project" value="LOCAL" />
+      <updated>1582808818421</updated>
+    </task>
+    <task id="LOCAL-00151" summary="添加 将数组中的数字排成最小的数">
+      <created>1582808931835</created>
+      <option name="number" value="00151" />
+      <option name="presentableId" value="LOCAL-00151" />
+      <option name="project" value="LOCAL" />
+      <updated>1582808931835</updated>
+    </task>
+    <task id="LOCAL-00152" summary="字节跳动：数组中出现次数超过一般的数字">
+      <created>1582815569480</created>
+      <option name="number" value="00152" />
+      <option name="presentableId" value="LOCAL-00152" />
+      <option name="project" value="LOCAL" />
+      <updated>1582815569480</updated>
+    </task>
+    <task id="LOCAL-00153" summary="字节跳动：数组中出现次数超过一般的数字">
+      <created>1582815655496</created>
+      <option name="number" value="00153" />
+      <option name="presentableId" value="LOCAL-00153" />
+      <option name="project" value="LOCAL" />
+      <updated>1582815655496</updated>
+    </task>
+    <task id="LOCAL-00154" summary="字节跳动：快速排序">
+      <created>1582855082758</created>
+      <option name="number" value="00154" />
+      <option name="presentableId" value="LOCAL-00154" />
+      <option name="project" value="LOCAL" />
+      <updated>1582855082759</updated>
+    </task>
+    <task id="LOCAL-00155" summary="字节跳动：数组翻转">
+      <created>1582855312358</created>
+      <option name="number" value="00155" />
+      <option name="presentableId" value="LOCAL-00155" />
+      <option name="project" value="LOCAL" />
+      <updated>1582855312358</updated>
+    </task>
+    <task id="LOCAL-00156" summary="#添加三道算法题">
+      <created>1582855626484</created>
+      <option name="number" value="00156" />
+      <option name="presentableId" value="LOCAL-00156" />
+      <option name="project" value="LOCAL" />
+      <updated>1582855626484</updated>
+    </task>
+    <task id="LOCAL-00157" summary="字节跳动：使用两个栈实现队列">
+      <created>1583028355339</created>
+      <option name="number" value="00157" />
+      <option name="presentableId" value="LOCAL-00157" />
+      <option name="project" value="LOCAL" />
+      <updated>1583028355339</updated>
+    </task>
+    <task id="LOCAL-00158" summary="添加两个栈实现队列">
+      <created>1583028775318</created>
+      <option name="number" value="00158" />
+      <option name="presentableId" value="LOCAL-00158" />
+      <option name="project" value="LOCAL" />
+      <updated>1583028775318</updated>
+    </task>
+    <option name="localTasksCounter" value="159" />
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="497863000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.8447099" visible="true" weight="0.2526475" />
+      <window_info id="Structure" order="1" sideWeight="0.1552901" side_tool="true" visible="true" weight="0.2526475" />
+      <window_info id="Designer" order="2" />
+      <window_info id="UI Designer" order="3" />
+      <window_info id="Favorites" order="4" sideWeight="0.6755952" side_tool="true" weight="0.23081024" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32925472" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.051194537" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.59385663" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="8" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.13651878" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="11" weight="0.79522187" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.24061434" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.24962178" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+      <window_info anchor="right" id="Maven" order="5" weight="0.32980332" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+      <window_info anchor="right" id="Coverage" order="7" side_tool="true" weight="0.32995737" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.78156996" visible="true" weight="0.040090773" />
+      <window_info id="Structure" order="1" sideWeight="0.21843003" side_tool="true" visible="true" weight="0.040090773" />
+      <window_info id="Designer" order="2" />
+      <window_info id="UI Designer" order="3" />
+      <window_info id="Favorites" order="4" sideWeight="0.6755952" side_tool="true" weight="0.23081024" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32925472" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32593855" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.6757679" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="8" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.13651878" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="11" weight="0.79522187" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.24061434" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.24962178" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+      <window_info anchor="right" id="Maven" order="5" weight="0.32980332" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+      <window_info anchor="right" id="Coverage" order="7" side_tool="true" weight="0.32995737" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list />
+          </value>
+        </entry>
+        <entry key="User">
+          <value>
+            <list />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="牛客网：字符串的排列" />
+    <MESSAGE value="添加相关链接" />
+    <MESSAGE value="++" />
+    <MESSAGE value="字节跳动:36进制的加法(要求不能转化为十进制)" />
+    <MESSAGE value="字节跳动：二叉搜索树（二叉树）的公共祖先（如果不用递归怎么实现）" />
+    <MESSAGE value="添加字节面试md文档" />
+    <MESSAGE value="添加企业面试算法题模块" />
+    <MESSAGE value="换行" />
+    <MESSAGE value="字节跳动面试：翻转URL" />
+    <MESSAGE value="字节跳动：获取两个链表的交点" />
+    <MESSAGE value="字节跳动：链表对折" />
+    <MESSAGE value="添加常见题" />
+    <MESSAGE value="字节跳动：K个一组翻转链表" />
+    <MESSAGE value="字节面试：奇偶升序链表" />
+    <MESSAGE value="链表题完结" />
+    <MESSAGE value="字节面试题：数组中下一个更大的数" />
+    <MESSAGE value="添加数组中下一个大的数" />
+    <MESSAGE value="字节跳动：将数组中的数字排成最小的数" />
+    <MESSAGE value="添加 将数组中的数字排成最小的数" />
+    <MESSAGE value="字节跳动：数组中出现次数超过一般的数字" />
+    <MESSAGE value="字节跳动：快速排序" />
+    <MESSAGE value="字节跳动：数组翻转" />
+    <MESSAGE value="#添加三道算法题" />
+    <MESSAGE value="字节跳动：使用两个栈实现队列" />
+    <MESSAGE value="添加两个栈实现队列" />
+    <option name="LAST_COMMIT_MESSAGE" value="添加两个栈实现队列" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/duanxi/newcode/PrintMinNumber.java</url>
+          <line>25</line>
+          <properties />
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/duanxi/newcode/GetNumberOfK.java</url>
+          <line>28</line>
+          <properties />
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/duanxi/newcode/NoRepeatInStringStream.java</url>
+          <line>69</line>
+          <properties />
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/duanxi/newcode/HasPath.java</url>
+          <line>47</line>
+          <properties />
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/duanxi/byteDance/ParityAscendingLinkedList.java</url>
+          <line>94</line>
+          <properties />
+          <option name="timeStamp" value="37" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/duanxi/sortingAlgorithm/QuickSort.java</url>
+          <line>32</line>
+          <properties />
+          <option name="timeStamp" value="38" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="head" />
+        <watch expression="dummyNode.next.next" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/swordoffer$FourSum.ic" NAME="FourSum Coverage Results" MODIFIED="1576671025812" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.duanxi.video.search.*</FILTER>
+    </SUITE>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/duanxi/newcode/NumberOf1Between1AndN.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="5" column="3" selection-start-line="5" selection-start-column="3" selection-end-line="5" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/duanxi/newcode/ReplaceSpace.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="5" column="3" selection-start-line="5" selection-start-column="3" selection-end-line="5" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/duanxi/newcode/Find.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="10" column="12" selection-start-line="10" selection-start-column="12" selection-end-line="10" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/duanxi/newcode/Permutation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="10" column="3" selection-start-line="10" selection-start-column="3" selection-end-line="10" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/duanxi/newcode/LineCutRope.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="5" column="3" selection-start-line="5" selection-start-column="3" selection-end-line="5" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/duanxi/newcode/RobotMovingCount.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="5" column="3" selection-start-line="5" selection-start-column="3" selection-end-line="5" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_131/src.zip!/java/lang/SuppressWarnings.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="440">
+          <caret line="53" column="18" selection-start-line="53" selection-start-column="18" selection-end-line="53" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.7.0_80/src.zip!/java/util/HashMap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="464">
+          <caret line="602" column="5" selection-start-line="602" selection-start-column="5" selection-end-line="602" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.7.0_80/jre/lib/rt.jar!/sun/misc/Unsafe.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="301">
+          <caret line="344" column="23" selection-start-line="344" selection-start-column="23" selection-end-line="344" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.7.0_80/src.zip!/java/lang/Runtime.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="318">
+          <caret line="634" column="22" selection-start-line="634" selection-start-column="22" selection-end-line="634" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/duanxi/interview/TestLock.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="12" column="40" selection-start-line="12" selection-start-column="40" selection-end-line="12" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.7.0_80/src.zip!/java/util/concurrent/locks/ReentrantLock.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="368" column="19" selection-start-line="368" selection-start-column="19" selection-end-line="368" selection-end-column="19" />
+          <folding>
+            <element signature="e#9168#9169#0" expanded="true" />
+            <element signature="e#9195#9196#0" expanded="true" />
+            <element signature="e#12262#12263#0" expanded="true" />
+            <element signature="e#12310#12311#0" expanded="true" />
+            <element signature="e#15874#15875#0" expanded="true" />
+            <element signature="e#15905#15906#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.7.0_80/src.zip!/java/util/concurrent/ConcurrentHashMap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="178">
+          <caret line="313" column="28" selection-start-line="313" selection-start-column="28" selection-end-line="313" selection-end-column="28" />
+          <folding>
+            <element signature="e#10054#10055#0" expanded="true" />
+            <element signature="e#10122#10123#0" expanded="true" />
+            <element signature="e#33317#33318#0" expanded="true" />
+            <element signature="e#33411#33412#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/duanxi/newcode/HasPath.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="7" column="6" selection-start-line="7" selection-start-column="6" selection-end-line="7" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_131/src.zip!/java/util/Iterator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="704">
+          <caret line="55" column="15" selection-start-line="55" selection-start-column="15" selection-end-line="55" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_131/src.zip!/java/util/HashMap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="37554">
+          <caret line="1774" column="18" selection-start-line="1774" selection-start-column="18" selection-end-line="1774" selection-end-column="18" />
+          <folding>
+            <element signature="e#24298#24299#0" expanded="true" />
+            <element signature="e#24363#24364#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_131/src.zip!/java/util/AbstractMap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="968">
+          <caret line="67" column="22" selection-start-line="67" selection-start-column="22" selection-end-line="67" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_131/src.zip!/java/util/LinkedHashMap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5984">
+          <caret line="300" column="18" selection-start-line="300" selection-start-column="18" selection-end-line="300" selection-end-column="18" />
+          <folding>
+            <element signature="e#19667#19668#0" expanded="true" />
+            <element signature="e#19695#19696#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_131/src.zip!/java/lang/Integer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="29282">
+          <caret line="1394" column="22" selection-start-line="1394" selection-start-column="22" selection-end-line="1394" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_131/src.zip!/java/util/WeakHashMap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="550">
+          <caret line="53" column="37" selection-start-line="53" selection-start-column="22" selection-end-line="53" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/duanxi/byteDance/BaseAdditionOfThritySix.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="19" column="14" selection-start-line="19" selection-start-column="14" selection-end-line="19" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/duanxi/byteDance/RecentPublicAncestor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="12" column="6" selection-start-line="12" selection-start-column="6" selection-end-line="12" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="1738">
+            <caret line="79" selection-start-line="79" selection-end-line="79" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_131/src.zip!/java/lang/ref/WeakReference.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="528">
+          <caret line="47" column="13" selection-start-line="47" selection-start-column="13" selection-end-line="47" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_131/src.zip!/java/util/Map.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="7656">
+          <caret line="374" column="14" selection-start-line="374" selection-start-column="14" selection-end-line="374" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/duanxi/byteDance/ReverseURL.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="45" column="16" lean-forward="true" selection-start-line="45" selection-start-column="16" selection-end-line="45" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/duanxi/video/linkedlist/PartitionList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-102">
+          <caret line="20" column="13" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/duanxi/video/linkedlist/PrintListFromTailToHead.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-572">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/duanxi/video/linkedlist/RemoveDuplicateFromSortedList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-66">
+          <caret line="22" column="13" selection-start-line="22" selection-start-column="13" selection-end-line="22" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/duanxi/byteDance/ParityAscendingLinkedList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="6" column="6" selection-start-line="6" selection-start-column="6" selection-end-line="6" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/duanxi/byteDance/ReverseListNodeOfKGroup.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2354">
+          <caret line="107" column="5" selection-start-line="91" selection-start-column="4" selection-end-line="107" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/duanxi/byteDance/FoldTheListNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="14" column="23" selection-start-line="14" selection-start-column="23" selection-end-line="14" selection-end-column="23" />
+          <folding>
+            <element signature="method#foldListNode#0;class#FoldTheListNode#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/duanxi/video/linkedlist/ReverseLinkedList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="440">
+          <caret line="20" column="13" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/duanxi/byteDance/IntersectionOfTwoListNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="7" column="3" selection-start-line="7" selection-start-column="3" selection-end-line="7" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/duanxi/interview/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="7" column="10" selection-start-line="7" selection-start-column="10" selection-end-line="7" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_131/src.zip!/java/util/Hashtable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="8756">
+          <caret line="439" column="5" selection-start-line="439" selection-start-column="5" selection-end-line="441" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_131/src.zip!/java/util/concurrent/ConcurrentHashMap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="367">
+          <caret line="651" column="20" selection-start-line="651" selection-start-column="20" selection-end-line="651" selection-end-column="20" />
+          <folding>
+            <element signature="e#32334#32335#0" expanded="true" />
+            <element signature="e#32385#32386#0" expanded="true" />
+            <element signature="e#39094#39095#0" expanded="true" />
+            <element signature="e#39146#39147#0" expanded="true" />
+            <element signature="e#44347#44348#0" expanded="true" />
+            <element signature="e#44395#44396#0" expanded="true" />
+            <element signature="e#93710#93711#0" expanded="true" />
+            <element signature="e#93797#93798#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/duanxi/byteDance/NextGreaterElement.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="14" column="6" selection-start-line="14" selection-start-column="6" selection-end-line="14" selection-end-column="6" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/duanxi/byteDance/ArrangeArrayGetMinNumber.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="10" column="21" selection-start-line="10" selection-start-column="3" selection-end-line="10" selection-end-column="21" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/duanxi/byteDance/RotateArrayWithTarget.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="5" column="3" selection-start-line="5" selection-start-column="3" selection-end-line="5" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/duanxi/byteDance/字节跳动面试算法题.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="390">
+            <caret line="27" column="10" selection-start-line="27" selection-start-column="10" selection-end-line="27" selection-end-column="10" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/duanxi/byteDance/TwoStackImplQueue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="7" column="3" selection-start-line="7" selection-start-column="3" selection-end-line="7" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/duanxi/sortingAlgorithm/QuickSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="836">
+          <caret line="40" selection-start-line="40" selection-end-line="40" />
+          <folding>
+            <element signature="e#327#328#0" expanded="true" />
+            <element signature="e#374#375#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/duanxi/byteDance/QuickSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="9" column="11" selection-start-line="9" selection-start-column="3" selection-end-line="9" selection-end-column="11" />
+          <caret line="10" column="30" selection-start-line="10" selection-start-column="3" selection-end-line="10" selection-end-column="30" />
+          <caret line="11" column="38" selection-start-line="11" selection-start-column="3" selection-end-line="11" selection-end-column="38" />
+          <caret line="12" column="37" selection-start-line="12" selection-start-column="3" selection-end-line="12" selection-end-column="37" />
+          <caret line="13" column="38" selection-start-line="13" selection-start-column="3" selection-end-line="13" selection-end-column="38" />
+          <folding>
+            <element signature="e#402#403#0" expanded="true" />
+            <element signature="e#449#450#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_131/src.zip!/java/util/Random.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="7612">
+          <caret line="385" column="15" selection-start-line="385" selection-start-column="15" selection-end-line="385" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/duanxi/byteDance/MoreThanHalfNumber.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="9" column="33" selection-start-line="9" selection-start-column="33" selection-end-line="9" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_131/src.zip!/java/lang/String.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="24090">
+          <caret line="1152" column="15" selection-start-line="1152" selection-start-column="15" selection-end-line="1152" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_131/src.zip!/java/util/Collections.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2992">
+          <caret line="174" column="16" selection-start-line="174" selection-start-column="16" selection-end-line="174" selection-end-column="16" />
+          <folding>
+            <element signature="e#7284#7285#0" expanded="true" />
+            <element signature="e#7312#7313#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_131/src.zip!/java/util/List.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="9944">
+          <caret line="475" column="17" selection-start-line="475" selection-start-column="17" selection-end-line="475" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_131/src.zip!/java/lang/Object.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="36" column="13" selection-start-line="36" selection-start-column="13" selection-end-line="36" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/duanxi/byteDance/FindNumsAppearOnce.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="15" column="5" lean-forward="true" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
+          <folding>
+            <element signature="e#738#739#0" expanded="true" />
+            <element signature="e#786#787#0" expanded="true" />
+            <element signature="e#766#767#0" expanded="true" />
+            <element signature="e#802#803#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>junit-4.12</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.7</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>swordoffer</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.7</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: junit:junit:4.11</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
