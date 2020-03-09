@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="88506a8f-da32-4a35-a014-3c97f45bde21" name="Default Changelist" comment="字节跳动：将数组中的数字排成最小的数">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/duanxi/byteDance/TwoSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/duanxi/byteDance/LongestNoRepeatSubArray.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/duanxi/byteDance/字节跳动面试算法题.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/duanxi/byteDance/字节跳动面试算法题.md" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -24,12 +23,12 @@
     <favorites_list name="swordoffer" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/duanxi/byteDance/TwoSum.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="184">
-              <caret line="29" column="39" selection-start-line="29" selection-start-column="39" selection-end-line="29" selection-end-column="39" />
+            <state relative-caret-position="616">
+              <caret line="29" column="19" selection-start-line="29" selection-start-column="19" selection-end-line="29" selection-end-column="19" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -37,23 +36,39 @@
           </provider>
         </entry>
       </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/duanxi/byteDance/TwoStackImplQueue.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="154">
+              <caret line="7" column="3" selection-start-line="7" selection-start-column="3" selection-end-line="7" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/duanxi/byteDance/字节跳动面试算法题.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="66">
-                <caret line="29" column="108" selection-start-line="29" selection-start-column="108" selection-end-line="29" selection-end-column="108" />
-              </first_editor>
-              <second_editor />
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/duanxi/byteDance/LongestNoRepeatSubArray.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="202">
+              <caret line="21" column="29" selection-start-line="21" selection-start-column="29" selection-end-line="21" selection-end-column="29" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://C:/Program Files/Java/jdk1.8.0_131/src.zip!/java/lang/String.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="186">
+              <caret line="655" column="16" selection-start-line="655" selection-start-column="16" selection-end-line="655" selection-end-column="16" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/.gitignore">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-100" />
-          </provider>
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
     </leaf>
@@ -89,7 +104,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/com/duanxi/newcode/FindContinuousSequence.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/duanxi/newcode/FindNumbersWithSum.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/duanxi/newcode/LeftRotateString.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/duanxi/newcode/ReverseSentence.java" />
@@ -140,6 +154,7 @@
         <option value="$PROJECT_DIR$/src/main/java/com/duanxi/byteDance/FindNumsAppearOnce.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/duanxi/byteDance/TwoSum.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/duanxi/byteDance/字节跳动面试算法题.md" />
+        <option value="$PROJECT_DIR$/src/main/java/com/duanxi/byteDance/LongestNoRepeatSubArray.java" />
       </list>
     </option>
   </component>
@@ -175,6 +190,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -230,22 +247,12 @@
             <path>
               <item name="swordoffer" type="b2602c69:ProjectViewProjectNode" />
               <item name="swordoffer" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="swordoffer" type="b2602c69:ProjectViewProjectNode" />
-              <item name="swordoffer" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="target" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -279,7 +286,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.FindNumsAppearOnce">
+  <component name="RunManager" selected="Application.LongestNoRepeatSubArray">
     <configuration name="FindNumsAppearOnce" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.duanxi.byteDance.FindNumsAppearOnce" />
       <module name="swordoffer" />
@@ -293,8 +300,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MoreThanHalfNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.duanxi.byteDance.MoreThanHalfNumber" />
+    <configuration name="LongestNoRepeatSubArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.duanxi.byteDance.LongestNoRepeatSubArray" />
       <module name="swordoffer" />
       <extension name="coverage">
         <pattern>
@@ -347,11 +354,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.LongestNoRepeatSubArray" />
         <item itemvalue="Application.FindNumsAppearOnce" />
         <item itemvalue="Application.TwoStackImplQueue" />
         <item itemvalue="Application.QuickSort (1)" />
         <item itemvalue="Application.QuickSort" />
-        <item itemvalue="Application.MoreThanHalfNumber" />
       </list>
     </recent_temporary>
   </component>
@@ -450,7 +457,8 @@
       <workItem from="1583292038537" duration="114000" />
       <workItem from="1583328591330" duration="2100000" />
       <workItem from="1583565526808" duration="679000" />
-      <workItem from="1583675390585" duration="1564000" />
+      <workItem from="1583675390585" duration="1746000" />
+      <workItem from="1583758041751" duration="2502000" />
     </task>
     <task id="LOCAL-00110" summary="牛客网：数组中重复的数字">
       <created>1581056439341</created>
@@ -799,27 +807,27 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="500106000" />
+    <option name="totallyTimeSpent" value="502790000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.5945946" visible="true" weight="0.2602118" />
-      <window_info id="Structure" order="1" sideWeight="0.4054054" side_tool="true" visible="true" weight="0.2602118" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.7670807" visible="true" weight="0.26399395" />
+      <window_info id="Structure" order="1" sideWeight="0.23291926" side_tool="true" visible="true" weight="0.26399395" />
       <window_info id="Designer" order="2" />
       <window_info id="UI Designer" order="3" />
       <window_info id="Favorites" order="4" sideWeight="0.6755952" side_tool="true" weight="0.23081024" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32925472" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.051194537" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.59385663" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.45051193" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.18430035" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="8" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="9" visible="true" weight="0.68430036" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.7150171" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="11" weight="0.79522187" />
       <window_info anchor="bottom" id="Messages" order="12" weight="0.24061434" />
@@ -986,13 +994,6 @@
     </SUITE>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/duanxi/newcode/Find.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="10" column="12" selection-start-line="10" selection-start-column="12" selection-end-line="10" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/duanxi/newcode/Permutation.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="154">
@@ -1296,13 +1297,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/duanxi/byteDance/TwoStackImplQueue.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="154">
-          <caret line="7" column="3" selection-start-line="7" selection-start-column="3" selection-end-line="7" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/duanxi/sortingAlgorithm/QuickSort.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="836">
@@ -1343,13 +1337,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_131/src.zip!/java/lang/String.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="24090">
-          <caret line="1152" column="15" selection-start-line="1152" selection-start-column="15" selection-end-line="1152" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://C:/Program Files/Java/jdk1.8.0_131/src.zip!/java/util/Collections.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2992">
@@ -1382,10 +1369,20 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/duanxi/byteDance/字节跳动面试算法题.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="323">
+            <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/duanxi/byteDance/TwoSum.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="184">
-          <caret line="29" column="39" selection-start-line="29" selection-start-column="39" selection-end-line="29" selection-end-column="39" />
+        <state relative-caret-position="616">
+          <caret line="29" column="19" selection-start-line="29" selection-start-column="19" selection-end-line="29" selection-end-column="19" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -1393,17 +1390,29 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/duanxi/byteDance/TwoStackImplQueue.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-100" />
+        <state relative-caret-position="154">
+          <caret line="7" column="3" selection-start-line="7" selection-start-column="3" selection-end-line="7" selection-end-column="17" />
+        </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/duanxi/byteDance/字节跳动面试算法题.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="66">
-            <caret line="29" column="108" selection-start-line="29" selection-start-column="108" selection-end-line="29" selection-end-column="108" />
-          </first_editor>
-          <second_editor />
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_131/src.zip!/java/lang/String.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="186">
+          <caret line="655" column="16" selection-start-line="655" selection-start-column="16" selection-end-line="655" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/duanxi/byteDance/LongestNoRepeatSubArray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="202">
+          <caret line="21" column="29" selection-start-line="21" selection-start-column="29" selection-end-line="21" selection-end-column="29" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
