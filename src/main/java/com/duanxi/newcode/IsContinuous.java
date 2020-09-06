@@ -51,4 +51,26 @@ public class IsContinuous {
         // 这里要注意等于的情况，正好抵消
         return numOfInterval <= numOfZero;
     }
+
+
+    public boolean isContinuousII(int[] numbers) {
+        if (numbers.length < 5) return false;
+        Arrays.sort(numbers);
+        int king = 0;
+        // 否则所产生的间隙应该就是0的个数了
+        int loss = 0;
+        for (int i = 0; i + 1 < numbers.length; i++) {
+            if (numbers[i] == 0) {
+                king++;
+                continue;
+            }
+            // 还有对子的情况
+            if (numbers[i] == numbers[i + 1]) return false;
+            // 计算间隙
+            loss += numbers[i + 1] - numbers[i] - 1;
+        }
+        return loss <= king;
+    }
+
+
 }

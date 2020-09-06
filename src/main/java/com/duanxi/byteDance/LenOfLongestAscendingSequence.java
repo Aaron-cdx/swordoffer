@@ -1,6 +1,7 @@
 package com.duanxi.byteDance;
 
 import java.util.Arrays;
+import java.util.Scanner;
 
 /**
  * @author caoduanxi
@@ -26,7 +27,62 @@ import java.util.Arrays;
  * 著作权归领扣网络所有。商业转载请联系官方授权，非商业转载请注明出处。
  */
 public class LenOfLongestAscendingSequence {
+    // 需要删除一个数字
     public static int lengthOfLIS(int[] nums) {
+        int len = nums.length;
+        if (nums.length < 2) return len;
+        int[] dp = new int[len];
+        Arrays.fill(dp, 1);
+        // 需要删除一个数字
+        for (int i = 1; i < len; i++) {
+            for (int j = 0; j < i; j++) {
+                if (nums[j] < nums[i]) {
+                    dp[i] = Math.max(dp[i], dp[j] + 1);
+                }
+            }
+        }
+        int res = 0;
+        for (int i = 0; i < len; i++) {
+            res = Math.max(dp[i], res);
+        }
+        return res;
+    }
+
+    public int getMaxLen(int[] nums, int index) {
+        // index是要删除的下标
+        if (nums.length < 2) return nums.length;
+        int res = Integer.MIN_VALUE;
+        int count = 1;
+        for (int i = 0; i + 1 < nums.length; i++) {
+            if (i != index) {
+                if (nums[i + 1] > nums[i]) {
+                    count++;
+                } else {
+                    res = Math.max(res, count);
+                    count = 1;
+                }
+            }
+        }
+        res = Math.max(res, count);
+        return res;
+    }
+
+    public int maxLen() {
+        Scanner scanner = new Scanner(System.in);
+        int n = scanner.nextInt();
+        int nums[] = new int[n];
+//        StringBuilder sb = new StringBuilder();
+//        for (int i = 0; i < n; i++) {
+//            if (i == n - 1) {
+//                sb.append(scanner.nextInt());
+//            } else {
+//                sb.append(scanner.nextInt()).append(" ");
+//            }
+//        }
+//        String[] s = sb.toString().split(" ");
+//        for (int i = 0; i < n; i++) {
+//            nums[i] = Integer.parseInt(s[i]);
+//        }
         int len = nums.length;
         if (nums.length < 2) return len;
         int[] dp = new int[len];
@@ -52,32 +108,32 @@ public class LenOfLongestAscendingSequence {
      */
     public static int lengthOfLIS2(int[] nums) {
         int len = nums.length;
-        if(len < 2) return len;
+        if (len < 2) return len;
         // 因为tail[0]不存值的
-        int[] tail = new int[len+1];
-        int res = 1 ;
+        int[] tail = new int[len + 1];
+        int res = 1;
         tail[res] = nums[0];
         for (int i = 1; i < len; i++) {
-            if(nums[i] > tail[res]){
+            if (nums[i] > tail[res]) {
                 // 如果一直递增的话
                 tail[++res] = nums[i];
-            }else{
+            } else {
                 // 递增停止遇到障碍了
                 int l = 1;
                 int r = res;
                 int pos = 0;
-                while(l <= r){
-                    int mid = (l+r)>>1;
+                while (l <= r) {
+                    int mid = (l + r) >> 1;
                     // nums[i] < nums[r]
-                    if(tail[mid] < nums[i]){
+                    if (tail[mid] < nums[i]) {
                         pos = mid;
-                        l = mid+1;
-                    }else{
-                        r = mid-1;
+                        l = mid + 1;
+                    } else {
+                        r = mid - 1;
                     }
                 }
                 // 最后的话
-                tail[pos+1] = nums[i];
+                tail[pos + 1] = nums[i];
             }
         }
         return res;
@@ -85,7 +141,17 @@ public class LenOfLongestAscendingSequence {
 
 
     public static void main(String[] args) {
-        int res = lengthOfLIS(new int[]{10, 9, 2, 5, 3, 7});
+        LenOfLongestAscendingSequence len = new LenOfLongestAscendingSequence();
+        Scanner scanner = new Scanner(System.in);
+        int n = scanner.nextInt();
+        int nums[] = new int[n];
+        for (int i = 0; i < n; i++) {
+            nums[i] = scanner.nextInt();
+        }
+        int res = Integer.MIN_VALUE;
+        for (int i = 0; i < n; i++) {
+            res = Math.max(res,len.getMaxLen(nums,i));
+        }
         System.out.println(res);
     }
 }

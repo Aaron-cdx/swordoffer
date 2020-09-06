@@ -11,7 +11,7 @@ import java.util.Map;
  * <p>
  * 题目：
  * I: 两个数组，找出第一个数组中的数在第二个当前下标位置是否有比它大的数。
- * 例如：num1=[4,1,2],num2=[1,3,4,2] 返回[-1,3,2]
+ * 例如：num1=[4,1,2],num2=[1,3,4,2] 返回[-1,3,-1]
  * <p>
  * II: 给定一个循环的数组，找出下一个更大的数，注意可循环，如果没有大于自己的，则返回-1，否则返回大于自己的数
  */
@@ -128,9 +128,13 @@ public class NextGreaterElement {
 
     public static void main(String[] args) {
         NextGreaterElement test = new NextGreaterElement();
-        int[] ints = test.nextGreaterElementII2(new int[]{3, 8, 4, 1, 2});
+//        int[] ints = test.nextGreaterElementII2(new int[]{3, 8, 4, 1, 2});
+//        for (int anInt : ints) {
+//            System.out.print(anInt + " ");
+//        }
+        int[] ints = test.nextGreaterElementI1(new int[]{4, 1, 2}, new int[]{1, 3, 4, 2});
         for (int anInt : ints) {
-            System.out.print(anInt + " ");
+            System.out.print(anInt+" ");
         }
     }
 }
